@@ -1,0 +1,16 @@
+li{
+    color: chartreuse;
+    background-color: black;
+
+}
+h1{
+    color: aqua;
+    text-align: center;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+image{
+    width: 20%;
+    height: 30%;
+    border-radius: 60%;
+}
